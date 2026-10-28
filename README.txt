@@ -3,18 +3,6 @@ M & M SOLAR — PROFESSIONAL BILINGUAL CORPORATE WEBSITE & SOLAR ROI STUDIO
 Solar Solution for a Better Tomorrow | उज्ज्वल उद्यासाठी शाश्वत सौर ऊर्जा
 ========================================================================
 
-HOW TO VIEW & RUN
-------------------------------------------------------------------------
-Option 1: Direct Browser Launch
-  1. Open folder: C:\Users\Samiksha Palkar\OneDrive\Documents\Desktop\Omkar web\MandMSolar
-     (also accessible via junction: ...\M_and_M_SolarWebsite)
-  2. Double-click "index.html" to open in Chrome, Edge, Brave, or Firefox.
-  3. No build tools, Node.js, or external frameworks required! Everything is pure HTML5, CSS3, and Vanilla ES6 JavaScript.
-
-Option 2: Using VS Code Live Server
-  1. Open the folder in VS Code.
-  2. Right-click "index.html" and select "Open with Live Server".
-
 MOBILE-FIRST UI/UX REDESIGN HIGHLIGHTS
 ------------------------------------------------------------------------
 1. Design System & Palette:
